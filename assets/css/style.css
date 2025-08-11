@@ -1,1 +1,65 @@
+                                                                                                                                                                                                              *{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+
+}
+
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background:#fff url("https://i.pinimg.com/originals/45/12/4d/45124d126d0f0b6d8f5c4d635d466246.gif") no-repeat center;
+    z-index: 999; 
+    
+}
+.navbar{
+    position:sticky!important;
+    top: 0;
+    z-index: 100;
+}
+.nav{
+    background-color: lightslategray!important  ;
+}
+/* .carousel-item img{
+    width: 100%;
+    height: calc(100vh - 56px)
+} */
+
+/* ::-webkit-scrollbar{
+    background: linear-gradient(yellow, white);
+    width: 1em;
+    border-radius: 5%;
+    margin-block: 1em;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(pink,skyblue);
+    border-radius: 5%;
+} */
+.b{
+margin: 0 5% 5% 0;
+}
+iframe{
+    width: 100%;
+    height: 60%;
+}
+.bg-blacker{
+    background-color: black;
+}
+.clippy{
+    background-image: url(https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg);
+    clip-path: inset(28% 0 25% 0);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+h1 , h2{
+    text-decoration: none;
+}
+.c img{
+display: block;
+} 
+h1{
+    font-family: "Times New Roman", Times, serif;
+}
 
