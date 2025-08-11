@@ -27,7 +27,7 @@ This website is built using HTML, CSS, Bootstrap, and Font Awesome to create a m
 
 ## 🌐 Live Website
 
-👉 [Visit My Portfolio](https://pradeepbastola13.github.io/Personal_Protfolio/index.html)
+👉 [Visit My Portfolio](https://pradeepbastola13.github.io/Personal_Protfolio)
 
 ## 📫 Contact
 
@@ -39,3 +39,4 @@ If you'd like to collaborate or have any questions, feel free to reach out!
 ---
 
 Thank you for visiting!
+
